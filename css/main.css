@@ -7,3 +7,27 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+.logo{
+  width: 20%;
+}
+
+h1{
+  margin: 0;
+}
+
+
+nav li {
+  float: left;
+  width: 25%;
+}
+
+nav ol {
+  margin: 0;
+  list-style-type: none;
+  overflow: hidden:
+}
