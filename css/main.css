@@ -14,10 +14,13 @@ body {
 
 .logo{
   width: 20%;
+
 }
 
 h1{
   margin: 0;
+  text-align: center;
+  font-family: 'Open Sans bold', sans-serif;
 }
 
 
@@ -28,6 +31,16 @@ nav li {
 
 nav ol {
   margin: 0;
+  padding: 0;
   list-style-type: none;
   overflow: hidden:
+}
+
+nav a {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1em;
+  background-color: red;
+  color: #fff;
 }
