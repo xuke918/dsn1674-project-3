@@ -18,7 +18,7 @@ h1{
   padding: 1em;
   text-align: center;
   font-family: 'Open Sans bold', sans-serif;
-  
+
 }
 
 
@@ -50,7 +50,7 @@ nav a {
 .masthead {
   padding: 0em;
 	background-repeat: no-repeat, no-repeat, repeat;
-	background-position: left 20px, right 20px, center 20px;
+	background-position: left 20px, right, center 20px;
 	text-align: center;
   background-size: 75px auto, 1000px auto, 100px auto;
   background-image: url("../images/logo_restaurant.svg"), url("../images/background.jpg");
