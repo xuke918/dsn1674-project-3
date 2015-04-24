@@ -16,7 +16,7 @@ body {
 
 h1{
   margin: 0;
-  padding: 1em;
+  padding: 1.5em;
   color: #fff;
   text-align: center;
   font-size: 2em;
@@ -28,8 +28,8 @@ h1{
 
   background-image: url("../images/logo1.svg");
   background-repeat: no-repeat, no-repeat, repeat;
-  background-position: left 29px, center 20px;
-  background-size: 60px auto, 50px auto, 100px auto;
+  background-position: left 40px, center 20px;
+  background-size: 60px auto, 90px auto, 100px auto;
 }
 
 
@@ -51,7 +51,7 @@ nav ol {
 }
 
 nav a {
-  padding: 0.5em;
+  padding: 1em;
   display: block;
   text-decoration: none;
   text-align: center;
