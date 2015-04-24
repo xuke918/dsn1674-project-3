@@ -104,7 +104,7 @@ h3:hover {
 h3 {
 background-color: #AC0000;
 color: #F3A81F;
-margin: 0.5em 0em 0em 0em;
+margin: 1.2em 0em 0em 0em;
 font-size: 2em;
 font-family: 'Oswald', sans-serif;
 padding: 0.3em 0em 0.3em 1.2em;
@@ -147,7 +147,7 @@ padding-bottom: 1.5em;
 .menu2 {
   margin: 1em 0em 0em 0em;
   background-color: #F3A81F;
-  padding-bottom: 1.5em;
+  padding-bottom: 1.7em;
 }
 
 .dish3 {
@@ -175,9 +175,6 @@ h5{
   color: #8F1B23;
   font-size: 1em;
 }
-
-
-
 
 
 img {
@@ -238,8 +235,4 @@ footer {
   padding: 15px 0px 0px 50px;
   font-weight: bold;
   font-size: 20px;
-}
-
-.name{
-  color: red;
 }
