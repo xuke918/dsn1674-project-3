@@ -83,7 +83,7 @@ h2 {
   padding: 3em 0.5em 0.4em;
   position: absolute;
   bottom: 0;
-  background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.4));
+  background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.5));
 
   color: #fff;
   font-size: 3rem;
@@ -209,13 +209,8 @@ dd{
 
 footer {
 	text-align: center;
-
-
   background-color: rgba(143, 27, 35, 1);
-  background-image: url("../images/logo1.svg");
-  background-repeat: no-repeat, no-repeat, repeat;
-  background-position: right 20px,center 20px;
-  background-size: 55px auto, 100px auto, 100px auto;
+
 }
 
 .logo2{
@@ -223,8 +218,7 @@ footer {
 }
 
 .map{
-  border: solid 0.5em;
-
+  border: solid 0.8em;
   color: #F3A81F;
   padding: 0;
 }
