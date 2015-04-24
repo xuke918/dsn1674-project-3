@@ -170,7 +170,7 @@ dl{
 dt{
   font-family: 'Oswald', sans-serif;
   color: #8F1B23;
-  padding-left: 2.5em;
+  padding-left: 2em;
   font-size: 1.5em;
 }
 
@@ -198,4 +198,10 @@ footer {
 
 .logo2{
   width: 60%;
+}
+
+.map{
+  border: solid 2.5em;
+  color: #F3A81F;
+  padding: 0;
 }
