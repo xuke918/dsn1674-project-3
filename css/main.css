@@ -18,8 +18,9 @@ h1{
   padding: 1em;
   text-align: center;
   font-family: 'Cabin Condensed', sans-serif;
-  color: #fff;
+  color: #E6E285;
 }
+
 
 
 nav li {
@@ -35,10 +36,11 @@ nav ol {
 }
 
 nav a {
+  padding: 0.5em;
   display: block;
   text-decoration: none;
   text-align: center;
-  font-size: 1em;
+  font-size: 1.5em;
   background-color: #fff;
   color: #8F1B23;
   width: 100%;
@@ -76,26 +78,31 @@ padding: 0;
 h2 {
 	background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.3));
 	position: absolute;
-	padding-bottom: 2em;
+	padding-bottom: 0.5em;
 	padding-top: 6em;
 	color: #fff;
-	font-size: 2.5em;
-	text-align: center;
+	font-size: 3em;
+	text-align: right;
 	width: 100%;
 	margin: 0;
   bottom: 0;
   font-family: 'Anton', sans-serif;
 }
 
+h3:hover {
+	background-image: linear-gradient(to top, #FF812A, #E43A41);
+}
+
+
 h3 {
 background-color: #8F1B23;
 color: #F3A81F;
-
 margin: 0.5em 0em 0em 0em;
 font-size: 2em;
 font-family: 'Oswald', sans-serif;
 padding: 0.3em 0em 0.3em 1.2em;
 }
+
 
 p {
   background-color: #F3A81F;
@@ -110,21 +117,47 @@ p {
   width: 100%;
 }
 
-.menu1{
-margin: 0;
-background-color: #F3A81F;
-}
-
-
 .dish1 {
   width: 100%;
   margin: 0;
   padding: 0;
 }
 
-figcaption {
+
+.menu1 {
+margin: 0;
+background-color: #F3A81F;
+padding-bottom: 1.5em;
+}
+
+.dish2 {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.menu2 {
+  margin: 1em 0em 0em 0em;
+  background-color: #F3A81F;
+  padding-bottom: 1.5em;
+}
+
+.dish3 {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+h4 {
   margin: 0;
   text-align: center;
   font-family: 'Lora', serif;
-  color: #fff;
+  color: #8F1B23;
+  font-size: 1.1em;
+}
+
+img {
+  width: 100%;
+  padding-bottom: 0.5em;
 }
