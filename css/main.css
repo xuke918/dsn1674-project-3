@@ -13,13 +13,34 @@ body {
 }
 
 
+
 h1{
   margin: 0;
   padding: 1em;
-  text-align: center;
-  font-family: 'Cabin Condensed', sans-serif;
   color: #fff;
+
 }
+
+.masthead {
+  background-color: #AC0000;
+
+  color: #fff;
+  text-align: center;
+  background-image: url("../images/logo1.svg");
+  background-repeat: no-repeat, no-repeat, repeat;
+  background-position: left 38px, right 20px, center 20px;
+  background-size: 50px auto, 50px auto, 100px auto;
+
+
+
+}
+
+
+
+
+
+
+
 
 .nav a:hover{
   background-color: #E6E285;
@@ -51,16 +72,6 @@ nav a {
 }
 
 
-.masthead {
-  padding: 0em;
-  background-color: #AC0000;
-	background-repeat: no-repeat, no-repeat, repeat;
-	background-position: left 20px, right, center 20px;
-	text-align: center;
-  background-size: 75px auto, 1000px auto, 100px auto;
-  background-image: url("../images/logo_restaurant.svg");
-
-}
 
 .tea {
   display: block;
