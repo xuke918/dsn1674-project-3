@@ -70,6 +70,7 @@ nav a {
 .dirtwrap {
 position: relative;
 padding: 0;
+
 }
 
 h2 {
@@ -89,10 +90,26 @@ h2 {
 h3 {
 background-color: #8F1B23;
 color: #F3A81F;
-padding: 0;
+
 margin: 0.5em 0em 0em 0em;
+font-size: 2em;
+font-family: 'Oswald', sans-serif;
+padding: 0.3em 0em 0.3em 1.2em;
+}
+
+p {
+  background-color: #F3A81F;
+  padding: 3.5em 2em 3.5em 2em;
+  margin: 0;
+  color: #fff;
+  font-size: 20px;
+
 }
 
 .inside {
+  width: 100%;
+}
+
+.dish1 {
   width: 100%;
 }
