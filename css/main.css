@@ -37,11 +37,6 @@ h1{
 
 
 
-
-
-
-
-
 .nav a:hover{
   background-color: #E6E285;
 }
@@ -200,15 +195,14 @@ dd{
 
 
 footer {
-	background-color: rgba(143, 27, 35, 1);
-	background-position: center 5px;
-	clear: both;
 	text-align: center;
-	padding: 10px;
-  background-image: url("../images/logo_restaurant.svg");
+
+
+  background-color: rgba(143, 27, 35, 1);
+  background-image: url("../images/logo1.svg");
   background-repeat: no-repeat, no-repeat, repeat;
-  background-position: right,center 20px;
-  background-size: 75px auto, 1000px auto, 100px auto;
+  background-position: right 20px,center 20px;
+  background-size: 55px auto, 100px auto, 100px auto;
 }
 
 .logo2{
@@ -217,16 +211,14 @@ footer {
 
 .map{
   border: solid 0.5em;
-  border-radius: 30px;
+
   color: #F3A81F;
   padding: 0;
 }
 
 .mp{
-  color: #C2732E;
+
   padding: 15px 0px 0px 50px;
   font-weight: bold;
   font-size: 20px;
-
-
 }
