@@ -81,11 +81,12 @@ padding: 0;
 
 }
 
-.intro {
+h2 {
   margin: 0;
   padding: 3em 15px 1em;
-
-  background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.6));
+  position: absolute;
+  bottom: 0;
+  background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.5));
 
   color: #fff;
   font-size: 2rem;
@@ -94,12 +95,12 @@ padding: 0;
 
 }
 
-h2:hover {
+h3:hover {
 	background-image: linear-gradient(to top, #E6E285, #F4E84E);
 }
 
 
-h2 {
+h3 {
 background-color: #AC0000;
 color: #F3A81F;
 margin: 0.5em 0em 0em 0em;
@@ -155,13 +156,28 @@ padding-bottom: 1.5em;
 }
 
 
-h3 {
+h4 {
   margin: 0;
   text-align: center;
   font-family: 'Lora', serif;
   color: #8F1B23;
-  font-size: 1.1em;
+  font-size: 1.3em;
+  font-weight: bold;
 }
+
+h5{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lora', serif;
+  font-weight: lighter;
+  color: #8F1B23;
+  font-size: 1em;
+}
+
+
+
+
 
 img {
   width: 100%;
@@ -221,4 +237,8 @@ footer {
   padding: 15px 0px 0px 50px;
   font-weight: bold;
   font-size: 20px;
+}
+
+.name{
+  color: red;
 }
