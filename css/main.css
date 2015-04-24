@@ -32,7 +32,7 @@ nav ol {
   margin: 0;
   padding: 0;
   list-style-type: none;
-  overflow: hidden:
+  overflow: hidden;
 }
 
 nav a {
@@ -41,7 +41,6 @@ nav a {
   text-decoration: none;
   text-align: center;
   font-size: 1.5em;
-  background-color: #fff;
   color: #8F1B23;
   width: 100%;
   margin: 0;
@@ -51,9 +50,10 @@ nav a {
 
 
 
+
 .masthead {
   padding: 0em;
-  background-color: #8F1B23;
+  background-color: #AC0000;
 	background-repeat: no-repeat, no-repeat, repeat;
 	background-position: left 20px, right, center 20px;
 	text-align: center;
@@ -95,7 +95,7 @@ h3:hover {
 
 
 h3 {
-background-color: #8F1B23;
+background-color: #AC0000;
 color: #F3A81F;
 margin: 0.5em 0em 0em 0em;
 font-size: 2em;
@@ -160,4 +160,10 @@ h4 {
 img {
   width: 100%;
   padding-bottom: 0.5em;
+}
+
+dl{
+  background-color: #F3A81F;
+  margin: 0;
+  
 }
