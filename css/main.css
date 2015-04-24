@@ -108,7 +108,7 @@ p {
   padding: 3.5em 2em 3.5em 2em;
   margin: 0;
   color: #fff;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: lighter;
 
 }
@@ -149,7 +149,7 @@ padding-bottom: 1.5em;
 }
 
 
-h4 {
+h3 {
   margin: 0;
   text-align: center;
   font-family: 'Lora', serif;
@@ -165,6 +165,8 @@ img {
 dl{
   background-color: #F3A81F;
   margin: 0;
+  padding-top: 25px;
+
 }
 
 dt{
@@ -173,6 +175,8 @@ dt{
   padding-left: 2em;
   font-size: 1.5em;
 }
+
+
 
 dd{
   color: #fff;
@@ -201,7 +205,17 @@ footer {
 }
 
 .map{
-  border: solid 2.5em;
+  border: solid 0.5em;
+  border-radius: 30px;
   color: #F3A81F;
   padding: 0;
+}
+
+.mp{
+  color: #C2732E;
+  padding: 15px 0px 0px 50px;
+  font-weight: bold;
+  font-size: 20px;
+
+
 }
