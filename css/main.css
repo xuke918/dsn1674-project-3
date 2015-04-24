@@ -219,12 +219,12 @@ footer {
 
 .map{
   border: solid 0.8em;
+  border-bottom: 0;
   color: #F3A81F;
   padding: 0;
 }
 
 .mp{
-
   padding: 15px 0px 0px 50px;
   font-weight: bold;
   font-size: 20px;
