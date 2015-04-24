@@ -18,17 +18,19 @@ h1{
   padding: 1em;
   text-align: center;
   font-family: 'Cabin Condensed', sans-serif;
-  color: #E6E285;
+  color: #fff;
 }
 
-
+.nav a:hover{
+  background-color: #E6E285;
+}
 
 nav li {
   float: left;
   width: 25%;
 }
 
-nav ul {
+nav ol {
   margin: 0;
   padding: 0;
   list-style-type: none;
@@ -47,8 +49,6 @@ nav a {
   background-color: #F3A81F;
   font-family: 'Oswald', sans-serif;
 }
-
-
 
 
 .masthead {
@@ -89,7 +89,7 @@ padding: 0;
 }
 
 h2:hover {
-	background-image: linear-gradient(to top, #FF812A, #E43A41);
+	background-image: linear-gradient(to top, #E6E285, #F4E84E);
 }
 
 
