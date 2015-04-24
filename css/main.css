@@ -165,5 +165,32 @@ img {
 dl{
   background-color: #F3A81F;
   margin: 0;
-  
+}
+
+dt{
+  font-family: 'Oswald', sans-serif;
+  color: #8F1B23;
+  padding-left: 2.5em;
+  font-size: 1.5em;
+}
+
+dd{
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.8em;
+  padding-left: 50px;
+}
+
+
+
+footer {
+	background-color: rgba(143, 27, 35, 1);
+	background-position: center 5px;
+	clear: both;
+	text-align: center;
+	padding: 10px;
+  background-image: url("../images/logo_restaurant.svg");
+  background-repeat: no-repeat, no-repeat, repeat;
+  background-position: right,center 20px;
+  background-size: 75px auto, 1000px auto, 100px auto;
 }
