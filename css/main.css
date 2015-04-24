@@ -86,7 +86,7 @@ h2 {
   background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.5));
 
   color: #fff;
-  font-size: 4rem;
+  font-size: 3.5rem;
   font-weight: lighter;
   font-family: 'Anton', sans-serif;
   text-align: center;
@@ -161,7 +161,7 @@ h4 {
   text-align: center;
   font-family: 'Lora', serif;
   color: #8F1B23;
-  font-size: 2.5em;
+  font-size: 2em;
   font-weight: bold;
 }
 
@@ -172,7 +172,7 @@ h5{
   font-family: 'Lora', serif;
   font-weight: lighter;
   color: #8F1B23;
-  font-size: 2em;
+  font-size: 1.6em;
 }
 
 
