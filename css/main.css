@@ -38,7 +38,7 @@ nav a {
   display: block;
   text-decoration: none;
   text-align: center;
-  font-size: 1.5em;
+  font-size: 1em;
   background-color: #fff;
   color: #8F1B23;
   width: 100%;
@@ -110,6 +110,21 @@ p {
   width: 100%;
 }
 
+.menu1{
+margin: 0;
+background-color: #F3A81F;
+}
+
+
 .dish1 {
   width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+figcaption {
+  margin: 0;
+  text-align: center;
+  font-family: 'Lora', serif;
+  color: #fff;
 }
