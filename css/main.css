@@ -16,10 +16,10 @@ body {
 
 h1{
   margin: 0;
-  padding: 1.5em;
+  padding: 1em;
   color: #fff;
   text-align: center;
-  font-size: 2em;
+  font-size: 2.5em;
 
 }
 
@@ -29,7 +29,7 @@ h1{
   background-image: url("../images/logo1.svg");
   background-repeat: no-repeat, no-repeat, repeat;
   background-position: left 40px, center 20px;
-  background-size: 60px auto, 90px auto, 100px auto;
+  background-size: 80px auto, 90px auto, 100px auto;
 }
 
 
@@ -51,11 +51,11 @@ nav ol {
 }
 
 nav a {
-  padding: 1em;
+  padding: 0;
   display: block;
   text-decoration: none;
   text-align: center;
-  font-size: 1.5em;
+  font-size: 2em;
   color: #8F1B23;
   width: 100%;
   margin: 0;
@@ -80,13 +80,13 @@ padding: 0;
 
 h2 {
   margin: 0;
-  padding: 3em 0.5em 0.4em;
+  padding: 3em 0.5em 0.3em;
   position: absolute;
   bottom: 0;
   background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.5));
 
   color: #fff;
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: lighter;
   font-family: 'Anton', sans-serif;
   text-align: center;
