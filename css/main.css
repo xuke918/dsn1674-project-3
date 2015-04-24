@@ -17,8 +17,8 @@ h1{
   margin: 0;
   padding: 1em;
   text-align: center;
-  font-family: 'Open Sans bold', sans-serif;
-
+  font-family: 'Cabin Condensed', sans-serif;
+  color: #fff;
 }
 
 
@@ -40,24 +40,27 @@ nav a {
   text-align: center;
   font-size: 1.5em;
   background-color: #fff;
-  color: red;
+  color: #8F1B23;
   width: 100%;
   margin: 0;
+  background-color: #F3A81F;
+  font-family: 'Oswald', sans-serif;
 }
 
 
 
 .masthead {
   padding: 0em;
+  background-color: #8F1B23;
 	background-repeat: no-repeat, no-repeat, repeat;
 	background-position: left 20px, right, center 20px;
 	text-align: center;
   background-size: 75px auto, 1000px auto, 100px auto;
-  background-image: url("../images/logo_restaurant.svg"), url("../images/background.jpg");
+  background-image: url("../images/logo_restaurant.svg");
 
 }
 
-.inside {
+.tea {
   display: block;
   width: 100%;
   padding: 0;
@@ -72,12 +75,24 @@ padding: 0;
 h2 {
 	background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.3));
 	position: absolute;
-	padding-bottom: 3em;
-	padding-top: 8em;
+	padding-bottom: 2em;
+	padding-top: 6em;
 	color: #fff;
-	font-size: 3em;
-	text-align: left;
+	font-size: 2.5em;
+	text-align: center;
 	width: 100%;
 	margin: 0;
   bottom: 0;
+  font-family: 'Anton', sans-serif;
+}
+
+h3 {
+background-color: #8F1B23;
+color: #F3A81F;
+padding: 0;
+margin: 0.5em 0em 0em 0em;
+}
+
+.inside {
+  width: 100%;
 }
