@@ -18,21 +18,18 @@ h1{
   margin: 0;
   padding: 1em;
   color: #fff;
+  text-align: center;
+  font-size: 2em;
 
 }
 
 .masthead {
   background-color: #AC0000;
 
-  color: #fff;
-  text-align: center;
   background-image: url("../images/logo1.svg");
   background-repeat: no-repeat, no-repeat, repeat;
-  background-position: left 38px, right 20px, center 20px;
-  background-size: 50px auto, 50px auto, 100px auto;
-
-
-
+  background-position: left 29px, center 20px;
+  background-size: 60px auto, 50px auto, 100px auto;
 }
 
 
